@@ -1,0 +1,30 @@
+_repo: East-of-SuezCeylon-India-China-and-Japan_27260
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Penfield, Frederic Courtland
+    birthdate: 1855
+    deathdate: 1922
+    gutenberg_agent_id: '32578'
+    url: http://www.gutenberg.org/2009/agents/32578
+description: ''
+gutenberg_issued: '2008-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27260'
+  lccn: 07008551
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'East Asia -- Description and travel'
+title: 'East of Suez
+
+  Ceylon, India, China and Japan'
+url: http://www.gutenberg.org/ebooks/27260
